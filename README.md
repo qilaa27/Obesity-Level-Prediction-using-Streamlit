@@ -12,7 +12,7 @@ dietary habits, physical activity, and other lifestyle factors from the provided
 **Output:** predicted obesity category
 
 - **Test Case 1 → Overweight_Level_II (Code: 3)**  
-  ![Test Case 1](TestCase1.png)
+  ![Test Case 1](TestCase1.jpg)
 
 - **Test Case 2 → Normal_Weight (Code: 1)**  
-  ![Test Case 2](TestCase2.png)
+  ![Test Case 2](TestCase2.jpg)
