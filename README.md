@@ -1,6 +1,6 @@
 # Obesity Level Prediction App
 
-This project builds and deploys a **machine learning model** to predict an individual's **obesity level** based on lifestyle and daily habits.  
+This the final exam project for Model Deployment course, builds and deploys a **machine learning model** to predict an individual's **obesity level** based on lifestyle and daily habits.  
 The goal is to support proactive health interventions by identifying people at higher risk of obesity.
 
 The model was trained with full preprocessing and algorithm comparison, then deployed using  
